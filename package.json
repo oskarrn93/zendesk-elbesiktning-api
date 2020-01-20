@@ -1,0 +1,26 @@
+{
+  "name": "zendesk-elbesiktning-api",
+  "version": "1.0.0",
+  "description": "Zendesk integration with Elbesiktning.nu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodejs index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oskarrn93/zendesk-elbesiktning-api.git"
+  },
+  "author": "Oskar Rosen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oskarrn93/zendesk-elbesiktning-api/issues"
+  },
+  "homepage": "https://github.com/oskarrn93/zendesk-elbesiktning-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  }
+}

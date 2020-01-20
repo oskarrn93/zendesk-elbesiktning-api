@@ -1,0 +1,14 @@
+{
+  "rules": {
+    "semi": 0
+  },
+  "env": {
+    "node": true
+  },
+  "parserOptions": {
+      "ecmaVersion": 2020,
+      "sourceType": "module",
+      "ecmaFeatures": {
+      }
+  }
+}
