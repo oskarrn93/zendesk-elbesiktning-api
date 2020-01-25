@@ -6,9 +6,8 @@
     "node": true
   },
   "parserOptions": {
-      "ecmaVersion": 2020,
-      "sourceType": "module",
-      "ecmaFeatures": {
-      }
+    "ecmaVersion": 2020,
+    "sourceType": "module",
+    "ecmaFeatures": {}
   }
 }
